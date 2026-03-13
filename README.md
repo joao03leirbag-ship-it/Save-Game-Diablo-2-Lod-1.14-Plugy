@@ -5,5 +5,5 @@ Morgana - Sorceress - Blizzard - lvl 68
 Nyer - Necromancer - Summon - lvl 75  
 Dan - Paladin - Hammerdin - lvl 61  
 Nissa - Assasin - Trapdin - lvl 20  
-+ items in stash
++ items in stash  
 Some items are duplicated because I recovered the old stash.  
